@@ -28,3 +28,6 @@ this notice is the equivilent to adding the info above in the right order. (this
 
 ### ANOTHER NOTICE #1
 this is another modification (addition) based on section 3 requirement B.
+
+### ANOTHER NOTICE #2
+a follow up for the first notice, because it has to be two different changes.
