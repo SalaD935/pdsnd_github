@@ -1,3 +1,9 @@
+#THIS IS THE FIRST REFACTOR FOR SECTION 4 REQUIREMENT C.
+#THIS IS THE SECOND REFACTOR.
+
+
+
+
 import time
 import pandas as pd
 import numpy as np
