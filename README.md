@@ -24,3 +24,7 @@ Udacity <3
 I made changes twice and skipped a step of the project without noticing that slowing down is part of the project,
 so im adding this notice as a replacement for the required commit from the project.
 this notice is the equivilent to adding the info above in the right order. (this was done last)
+
+
+### ANOTHER NOTICE #1
+this is another modification (addition) based on section 3 requirement B.
